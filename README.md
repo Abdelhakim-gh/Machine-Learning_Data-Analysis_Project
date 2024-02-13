@@ -1,5 +1,7 @@
 # Machine Learning & Data Analysis Projects
 
+> **Abdelhakim EL Ghayoubi** 
+
 - This is a project I worked on to apply the things I learned.
 - I've provided both code and documentation for both projects, as well as a summary for languages `Python` and `R`.
 - Data sets are also provided, make sure to analyze them thoroughly.
