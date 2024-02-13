@@ -3,7 +3,7 @@
 > **Abdelhakim EL Ghayoubi** 
 
 - This is a project I worked on to apply the things I learned.
-- I've provided both code and documentation for both projects, as well as a summary for languages `Python` and `R`.
+- I've provided both code and documentation for both projects, as well as a summary for languages `Python` & `R`.
 - Data sets are also provided, make sure to analyze them thoroughly.
 
 ### Machine Learning Project with ``Python`
